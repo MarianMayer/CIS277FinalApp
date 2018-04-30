@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Final App CIS 277 by Marian Mayer
 
 You can use the [editor on GitHub](https://github.com/MarianMayer/CIS277FinalApp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
