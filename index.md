@@ -1,6 +1,15 @@
 ## Final App CIS 277 by Marian Mayer
 
+###SCOPE
+The program is meant for generating easily generate very complex CNC code by "mimicking" previous codes, and changing only certain parameters that will not affect the complex technology processes.
+
+
+
+
+
+ORIGINAL CODE
 (You can use the [editor on GitHub](https://github.com/MarianMayer/CIS277FinalApp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.)
+
 (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 
 ### Markdown
