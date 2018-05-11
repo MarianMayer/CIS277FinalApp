@@ -1,6 +1,6 @@
 ## Final App CIS 277 by Marian Mayer
 
-###SCOPE
+# SCOPE:
 The program is meant for generating easily generate very complex CNC code by "mimicking" previous codes, and changing only certain parameters that will not affect the complex technology processes.
 
 
